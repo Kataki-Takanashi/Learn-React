@@ -1,9 +1,9 @@
-
+import styles from "./Button.module.css";
 
 function Button() {
 
     return (
-        <button className="button">Follow</button>
+        <button className={styles.button} >Follow</button>
     );
 }
 
