@@ -1,5 +1,5 @@
 import profilePic from './assets/AbdurRaheem_Ali.png'
-import Button from './Button/Button';
+import Button from './Button';
 
 function Card() {
 
