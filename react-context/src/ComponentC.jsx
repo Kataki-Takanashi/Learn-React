@@ -4,7 +4,7 @@ function ComponentC() {
 
     return (
         <div className="box">
-            <p>Component C</p>
+            <h1>Component C</h1>
             <ComponentD/>
         </div>
     );
